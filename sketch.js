@@ -21,5 +21,6 @@ function draw() {
     fixedrect.shapeColor="red"
     movingrect.shapeColor="red"
   }
+console.log(movingrect);
   drawSprites();
 }
